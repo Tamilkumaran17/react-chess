@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Tamilkumaran17/chess/static/css/main.747a3afa.css",
-    "main.js": "/Tamilkumaran17/chess/static/js/main.69245229.js",
+    "main.css": "/Tamilkumaran17/chess/static/css/main.b9f432c6.css",
+    "main.js": "/Tamilkumaran17/chess/static/js/main.9a61589c.js",
     "index.html": "/Tamilkumaran17/chess/index.html",
-    "main.747a3afa.css.map": "/Tamilkumaran17/chess/static/css/main.747a3afa.css.map",
-    "main.69245229.js.map": "/Tamilkumaran17/chess/static/js/main.69245229.js.map"
+    "main.b9f432c6.css.map": "/Tamilkumaran17/chess/static/css/main.b9f432c6.css.map",
+    "main.9a61589c.js.map": "/Tamilkumaran17/chess/static/js/main.9a61589c.js.map"
   },
   "entrypoints": [
-    "static/css/main.747a3afa.css",
-    "static/js/main.69245229.js"
+    "static/css/main.b9f432c6.css",
+    "static/js/main.9a61589c.js"
   ]
 }
